@@ -12,7 +12,7 @@ We are a specialized trio of developers and designers dedicated to creating seam
 | :--- | :--- | :--- |
 | **karlosg3** | **UX/UI Designer & Backend Developer** | Crafting intuitive user experiences and building secure, scalable API architectures. |
 | **SerevrGG** | **Full Stack & Mobile Developer** | Delivering end-to-end features and high-performance cross-platform mobile integrations. |
-| **Eleazar Rojo** | **Frontend Developer & DevOps** | Implementing sleek client-side logic and managing automated CI/CD deployment pipelines. |
+| **Eleazar Rojo** | **DevOps y Frontend Developer** | Implementing sleek client-side logic and managing automated CI/CD deployment pipelines. |
 
 ---
 
