@@ -1,4 +1,4 @@
-# 🚀 Welcome to Project ARO
+# 🚀 Welcome to KodicX
 
 **A high-performance development collective building modern digital solutions.**
 
@@ -30,8 +30,7 @@ We utilize a modern, efficient workflow to ensure our projects are fast and main
 
 ## 📂 Featured Projects
 
-* **[CodeSnipes]**: A real-time collaborative code editor designed for developer synergy (WIP).
-* **[Endpoint Tester](https://github.com/ARO-Software-Development/endpoint-tester)**: Basic API Collaborative Website
+* **[Endpoint Tester](https://github.com/KodicX/endpoint-tester)**: Basic API Collaborative Website
 
 ---
 
@@ -39,8 +38,8 @@ We utilize a modern, efficient workflow to ensure our projects are fast and main
 
 We are always open to collaboration or discussing new architectural challenges.
 
-* **Portfolio:** https://github.com/ARO-Software-Development
-* **Email:** arodev.hello@gmail.com
+* **Portfolio:** [kodicx.dev](kodicx.dev)
+* * **Email:** [hello.kodixc@gmail.com](hello.kodixc@gmail.com)
 
 ---
 <p align="center">
